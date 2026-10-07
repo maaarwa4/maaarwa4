@@ -48,12 +48,20 @@
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets phares
 
-| Projet | Description | Stack |
+| 🔹 Projet | 🧠 Description | ⚙️ Tech |
 |---|---|---|
-| 📊 **RevenueML** | Pipeline ETL et modèle de prédiction de revenu, restitué dans des tableaux de bord décisionnels | Python · ETL · ML · Power BI |
-| 🏠 **MediaRent** | Plateforme de location à double face (propriétaire / locataire) | Laravel · PHP · SQL |
+| [**ERP Gestion des Stocks**](https://github.com/maaarwa4/pfaa) | ERP de gestion des stocks : cadrage fonctionnel, 3 modules métier développés et recettés avec les utilisateurs | Spring Boot, Angular, SQL |
+| [**RevenueML**](https://github.com/maaarwa4/RevenueML) | Pipeline ETL et modèle de prédiction de revenu, restitués dans des tableaux de bord décisionnels | Python, ETL, Machine Learning, Power BI |
+| [**MediaRent**](https://github.com/maaarwa4/MediaRent) | Plateforme de location à double face, avec un espace propriétaire et un espace locataire | Laravel, PHP, SQL |
+| [**Pipeline CI/CD**](https://github.com/maaarwa4/CI-CD-Pipeline) | Chaîne d'intégration et de déploiement continus automatisant build, tests et livraison | GitLab CI/CD, Docker |
+
+<div align="center">
+
+🧭 [**Voir tous mes projets →**](https://github.com/maaarwa4?tab=repositories)
+
+</div>
 
 ---
 
