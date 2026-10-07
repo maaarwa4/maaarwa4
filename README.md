@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa%20Bounoua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwa-bounoua-877300263)
 [![GitHub](https://img.shields.io/badge/GitHub-maaarwa4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaarwa4)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-digital-leader)
 
 </div>
 
@@ -59,28 +59,12 @@
 
 ## 🧭 Compétences
 
-### Fonctionnel & Conseil
-![Recueil des besoins](https://img.shields.io/badge/Recueil%20des%20besoins-6E40C9?style=flat-square)
-![Spécifications fonctionnelles](https://img.shields.io/badge/Spécifications%20fonctionnelles-6E40C9?style=flat-square)
-![Recette](https://img.shields.io/badge/Recette%20fonctionnelle-6E40C9?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Kanban-0052CC?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Data & Décisionnel
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-### Développement
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+| Domaine | Compétences |
+|---|---|
+| 🧭 **Fonctionnel & Conseil** | Recueil des besoins · Spécifications fonctionnelles · Recette fonctionnelle · Agile / Kanban · Jira |
+| 📊 **Data & Décisionnel** | SQL · Power BI |
+| ☁️ **Cloud & DevOps** | Google Cloud (Cloud SQL, GCS, Pub/Sub) · Docker · Apache Kafka · GitLab CI/CD · ArgoCD |
+| 💻 **Développement** | Java · Spring Boot · Angular |
 
 ---
 
@@ -93,11 +77,7 @@
 
 ## 🌍 Langues
 
-![Français](https://img.shields.io/badge/Français-C1-0055A4?style=flat-square)
-![Anglais](https://img.shields.io/badge/Anglais-C1-012169?style=flat-square)
-![Arabe](https://img.shields.io/badge/Arabe-Natif-006233?style=flat-square)
-![Turc](https://img.shields.io/badge/Turc-Courant-E30A17?style=flat-square)
-![Espagnol](https://img.shields.io/badge/Espagnol-B1-AA151B?style=flat-square)
+🇫🇷 **Français** C1 · 🇬🇧 **Anglais** C1 · 🇲🇦 **Arabe** natif · 🇹🇷 **Turc** courant · 🇪🇸 **Espagnol** B1
 
 ---
 
@@ -105,8 +85,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maaarwa4&show_icons=true&theme=default&hide_border=true&locale=fr" alt="Statistiques GitHub de Marwa" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarwa4&layout=compact&theme=default&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
+<a href="https://github.com/maaarwa4?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=maaarwa4&show_icons=true&theme=default&hide_border=true&locale=fr" alt="Statistiques GitHub de Marwa" /></a>
+<a href="https://github.com/maaarwa4?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarwa4&layout=compact&theme=default&hide_border=true&locale=fr" alt="Langages les plus utilisés" /></a>
 
 </div>
 
