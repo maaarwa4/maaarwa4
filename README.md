@@ -20,7 +20,7 @@
 
 <h2><a href="#about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" align="center" /></a>&nbsp; About Me</h2>
 
-I'm an **Information Systems & Decision Support engineer** from **ENSA Tétouan**, with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
+I'm an **Information Systems & Decision Support engineer** , with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
 
 - Hands-on experience with **Google Cloud**, **event-driven architectures** (Kafka) and **multi-agent AI platforms**
 - At ease across the full project lifecycle: **requirements → specs → build → UAT → production**
