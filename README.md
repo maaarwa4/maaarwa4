@@ -4,15 +4,13 @@
 
 <div align="center">
 
-<h3>Hi there, I'm Marwa Bounoua <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" align="center" /></h3>
+### Hi there, I'm Marwa <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" align="center" />
 
-<p>I turn business needs into working software: <b>requirements</b>, <b>specifications</b>, <b>development</b>, <b>user acceptance testing</b> and <b>delivery</b>.</p>
+I turn business needs into working software, from requirements to production.
 
-<br>
-
-<a href="https://linkedin.com/in/marwa-bounoua-877300263"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/maaarwa4?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://cloud.google.com/learn/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google_Cloud-Certified-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified" /></a>
+<a href="https://linkedin.com/in/marwa-bounoua-877300263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/maaarwa4?tab=repositories"><img src="https://img.shields.io/badge/Projects-6366F1?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://cloud.google.com/learn/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google_Cloud_Certified-1A73E8?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Certified" /></a>
 
 </div>
 
@@ -20,7 +18,7 @@
 
 <h2><a href="#about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" align="center" /></a>&nbsp; About Me</h2>
 
-I'm an **Information Systems & Decision Support engineer** , with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
+I'm an **Information Systems & Decision Support engineer**, with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
 
 - Hands-on experience with **Google Cloud**, **event-driven architectures** (Kafka) and **multi-agent AI platforms**
 - At ease across the full project lifecycle: **requirements → specs → build → UAT → production**
