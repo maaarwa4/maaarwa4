@@ -24,7 +24,6 @@ I'm an **Information Systems & Decision Support engineer** , with a **techno-fun
 
 - Hands-on experience with **Google Cloud**, **event-driven architectures** (Kafka) and **multi-agent AI platforms**
 - At ease across the full project lifecycle: **requirements → specs → build → UAT → production**
-- Working in **5 languages**: French, English, Arabic, Turkish and Spanish
 
 <br>
 
