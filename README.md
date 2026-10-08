@@ -54,6 +54,7 @@
 |---|---|---|
 | [**ERP Gestion des Stocks**](https://github.com/maaarwa4/pfaa) | ERP de gestion des stocks : cadrage fonctionnel, 3 modules métier développés et recettés avec les utilisateurs | Spring Boot, Angular, SQL |
 | [**RevenueML**](https://github.com/maaarwa4/RevenueML) | Pipeline ETL et modèle de prédiction de revenu, restitués dans des tableaux de bord décisionnels | Python, ETL, Machine Learning, Power BI |
+| [**CarRental**](https://github.com/maaarwa4/CarRental) | Application de location de voitures avec espaces administrateur et gestionnaire : gestion du parc, des clients et des réservations | Python, Flask, MongoDB, bcrypt |
 | [**MediaRent**](https://github.com/maaarwa4/MediaRent) | Plateforme de location à double face, avec un espace propriétaire et un espace locataire | Laravel, PHP, SQL |
 | [**Pipeline CI/CD**](https://github.com/maaarwa4/CI-CD-Pipeline) | Chaîne d'intégration et de déploiement continus automatisant build, tests et livraison | GitLab CI/CD, Docker |
 
