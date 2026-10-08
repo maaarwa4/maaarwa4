@@ -1,119 +1,182 @@
+<a href="https://linkedin.com/in/marwa-bounoua-877300263">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:EC4899&height=210&section=header&text=Marwa%20Bounoua&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Engineer%20%E2%80%A2%20Business%20%26%20Tech%20Bridge&descSize=17&descAlignY=58&animation=fadeIn" alt="Marwa Bounoua" />
+</a>
+
 <div align="center">
 
-# Marwa BOUNOUA
+<a href="https://linkedin.com/in/marwa-bounoua-877300263">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=9333EA&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Marwa+Bounoua;Information+Systems+Engineer;Bridging+business+needs+and+technology;Cloud+%E2%80%A2+Event-driven+%E2%80%A2+AI-powered+platforms;Incoming+IT+Consultant+%40+1GLINK" alt="Typing intro" />
+</a>
 
-### Ingénieure en Systèmes d'Information &nbsp;|&nbsp; Profil technico-fonctionnel
+<br><br>
 
-Le lien entre les enjeux métier et les solutions techniques,<br>
-du recueil des besoins à la mise en production.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa_Bounoua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwa-bounoua-877300263)
-&nbsp;
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Digital_Leader-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-digital-leader)
+<a href="https://linkedin.com/in/marwa-bounoua-877300263"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/maaarwa4?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="https://cloud.google.com/learn/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google_Cloud-Certified-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified" /></a>
 
 </div>
 
 <br>
 
-## Profil
+<h2><a href="#about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" align="center" /></a>&nbsp; About Me</h2>
 
-Diplômée de l'**ENSA Tétouan** en Systèmes d'Information et Aide à la Décision, j'interviens à l'interface entre les équipes métier et les équipes techniques.
-Mon parcours couvre l'ensemble du cycle projet : cadrage fonctionnel, rédaction des spécifications, conception, développement, recette avec les utilisateurs et mise en production.
+I'm an **Information Systems & Decision Support engineer** from **ENSA Tétouan**, with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
 
-Mes expériences m'ont amenée à travailler sur des architectures **cloud** (Google Cloud), **événementielles** (Kafka) et des plateformes intégrant des **agents d'intelligence artificielle**, au sein d'équipes Agile.
+- **Incoming IT Consultant** at **1GLINK**, France
+- Hands-on experience with **Google Cloud**, **event-driven architectures** (Kafka) and **multi-agent AI platforms**
+- At ease across the full project lifecycle: **requirements → specs → build → UAT → production**
+- Working in **5 languages**: French, English, Arabic, Turkish and Spanish
 
 <br>
 
-## Domaines d'expertise
+<h2><a href="#experience"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="34" align="center" /></a>&nbsp; Experience</h2>
 
 <table>
 <tr>
-<th align="left" width="33%">Conseil & fonctionnel</th>
-<th align="left" width="33%">Ingénierie logicielle</th>
-<th align="left" width="34%">Cloud, DevOps & Data</th>
+<td width="100%">
+
+#### Multi-Agent AI HR Platform — *1Gnius*
+**1GLINK** · Bezons, France · Final-year project · `Feb 2026 – Jul 2026`
+
+Integration of an AI-driven recruitment platform built on specialized agents for **CV analysis**, **autonomous interviews** and **real-time analysis**, within a team of six.
+
+- Full-stack development with **Java / Angular**, agent communication through **Apache Kafka**
+- Cloud migration from **OVH to Google Cloud**: Cloud SQL, Cloud Storage, Pub/Sub
+- Delivery automation with **Docker** and **GitLab CI/CD + ArgoCD**
+
+</td>
 </tr>
-<tr valign="top">
+<tr>
 <td>
-Recueil et analyse des besoins<br>
-Spécifications fonctionnelles<br>
-Recette fonctionnelle<br>
-Méthodes Agile / Kanban<br>
-Pilotage sous Jira
+
+#### Inventory & Procurement ERP
+**Orange Business Morocco** · Internship project · `Jun 2025 – Sep 2025`
+
+- **Functional scoping** and specifications written with business stakeholders
+- Full-stack **Spring Boot / Angular** development of three ERP modules: product catalog, suppliers, purchase orders
+- **User acceptance testing** run directly with end users
+
 </td>
+</tr>
+<tr>
 <td>
-Java, Spring Boot<br>
-Angular, TypeScript<br>
-API REST<br>
-Architecture événementielle (Kafka)<br>
-SQL, PostgreSQL, MySQL
-</td>
-<td>
-Google Cloud : Cloud SQL, GCS, Pub/Sub<br>
-Docker<br>
-CI/CD : GitLab CI, ArgoCD<br>
-Power BI<br>
-ETL et analyse de données
+
+#### CI/CD Pipeline
+**Orange Business Morocco** · Introductory internship · `Jun 2024 – Jul 2024`
+
+- Set up a continuous integration and delivery pipeline
+
 </td>
 </tr>
 </table>
 
 <br>
 
-## Parcours professionnel
+<h2><a href="#tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34" align="center" /></a>&nbsp; Tech Stack</h2>
 
-### Plateforme RH multi-agents IA — 1Gnius
-**1GLINK, Bezons** &nbsp;·&nbsp; Projet de fin d'études &nbsp;·&nbsp; *Février – Juillet 2026*
-
-Intégration d'une plateforme de recrutement reposant sur des agents d'IA spécialisés : analyse de CV, conduite d'entretiens autonomes et analyse en temps réel. Projet mené au sein d'une équipe de six personnes.
-
-- Développement full stack Java / Angular et intégration des agents via **Apache Kafka**
-- Migration de l'infrastructure d'**OVH vers Google Cloud** : Cloud SQL, Cloud Storage, Pub/Sub
-- Industrialisation des déploiements : conteneurisation **Docker**, chaîne **CI/CD GitLab et ArgoCD**
-
-### ERP de gestion des stocks et des achats
-**Orange Business Maroc** &nbsp;·&nbsp; Projet de fin d'année &nbsp;·&nbsp; *Juin – Septembre 2025*
-
-- **Cadrage fonctionnel** et rédaction des spécifications avec les équipes métier
-- Conception et développement full stack **Spring Boot / Angular** de trois modules : catalogue produits, fournisseurs, bons de commande
-- **Recette fonctionnelle** conduite directement avec les utilisateurs finaux
-
-### Chaîne d'intégration et de déploiement continus
-**Orange Business Maroc** &nbsp;·&nbsp; Stage d'initiation &nbsp;·&nbsp; *Juin – Juillet 2024*
-
-- Mise en place d'un pipeline d'intégration et de déploiement continus
+<table>
+<tr>
+<td width="24%"><b>Business & Consulting</b></td>
+<td>
+<code>Requirements gathering</code> <code>Functional specifications</code> <code>User acceptance testing</code> <code>Agile / Kanban</code>
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /></a>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></a>
+<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /></a>
+<a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" /></a>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<a href="https://angular.dev"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://docs.gitlab.com/ee/ci/"><img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD" /></a>
+<a href="https://argo-cd.readthedocs.io"><img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" /></a>
+</td>
+</tr>
+<tr>
+<td><b>Data & BI</b></td>
+<td>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+</td>
+</tr>
+</table>
 
 <br>
 
-## Projets
+<h2><a href="#featured-projects"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" align="center" /></a>&nbsp; Featured Projects</h2>
 
-| Projet | Description | Technologies |
+| Project | Description | Tech |
 |:---|:---|:---|
-| [**Inventory & Procurement ERP**](https://github.com/maaarwa4/Inventory-Procurement-ERP) | ERP de gestion des stocks et des achats : catalogue, fournisseurs, bons de commande avec export PDF | Spring Boot, Angular, PostgreSQL |
-| [**MediaRent**](https://github.com/maaarwa4/MediaRent) | Plateforme de location de matériel audiovisuel à double face (propriétaire / client) : recherche cartographique, annonces premium, évaluations mutuelles | Laravel, Livewire, Tailwind CSS, MySQL |
-| [**CarRental**](https://github.com/maaarwa4/CarRental) | Application de gestion d'une agence de location de véhicules, avec accès différenciés administrateur / gestionnaire | Python, Flask, MongoDB |
-| **RevenueML** | Pipeline ETL et modèle de prédiction de revenu, restitués dans des tableaux de bord décisionnels | Python, Machine Learning, Power BI |
-
-<br>
-
-## Certifications
-
-| Certification | Organisme | Statut |
-|:---|:---|:---|
-| Cloud Digital Leader | Google Cloud | Obtenue |
-| Associate Cloud Engineer | Google Cloud | En préparation |
-
-<br>
-
-## Langues
-
-**Français** C1 &nbsp;·&nbsp; **Anglais** C1 &nbsp;·&nbsp; **Arabe** langue maternelle &nbsp;·&nbsp; **Turc** courant &nbsp;·&nbsp; **Espagnol** B1
-
-<br>
-
----
+| [**Inventory & Procurement ERP**](https://github.com/maaarwa4/Inventory-Procurement-ERP) | Stock and purchasing ERP: product catalog, supplier management and purchase orders with PDF export | Spring Boot · Angular · PostgreSQL |
+| [**MediaRent**](https://github.com/maaarwa4/MediaRent) | Two-sided rental marketplace for professional audiovisual equipment, with map search, premium listings and mutual reviews | Laravel · Livewire · Tailwind · MySQL |
+| [**CarRental**](https://github.com/maaarwa4/CarRental) | Car rental agency management app with role-based access for admins and managers | Python · Flask · MongoDB |
+| **RevenueML** | ETL pipeline and revenue prediction model, delivered through decision-making dashboards | Python · ML · Power BI |
 
 <div align="center">
-<sub>Ouverte aux échanges sur le conseil en systèmes d'information, le cloud et la data.</sub>
+<a href="https://github.com/maaarwa4?tab=repositories"><img src="https://img.shields.io/badge/See_all_projects-%E2%86%92-9333EA?style=for-the-badge" alt="See all projects" /></a>
 </div>
+
+<br>
+
+<h2><a href="#certifications"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34" align="center" /></a>&nbsp; Certifications</h2>
+
+| Certification | Issuer | Status |
+|:---|:---|:---|
+| [**Cloud Digital Leader**](https://cloud.google.com/learn/certification/cloud-digital-leader) | Google Cloud | Certified |
+| [**Associate Cloud Engineer**](https://cloud.google.com/learn/certification/cloud-engineer) | Google Cloud | In progress |
+
+<br>
+
+<h2><a href="#languages"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="34" align="center" /></a>&nbsp; Languages</h2>
+
+| French | English | Arabic | Turkish | Spanish |
+|:---:|:---:|:---:|:---:|:---:|
+| C1 | C1 | Native | Fluent | B1 |
+
+<br>
+
+<h2><a href="#github-stats"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34" align="center" /></a>&nbsp; GitHub Stats</h2>
+
+<div align="center">
+<a href="https://github.com/maaarwa4?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api?username=maaarwa4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" /></a>
+<a href="https://github.com/maaarwa4?tab=repositories"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarwa4&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" /></a>
+<br>
+<a href="https://github.com/maaarwa4?tab=repositories"><img src="https://streak-stats.demolab.com?user=maaarwa4&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" /></a>
+</div>
+
+<br>
+
+<h2><a href="#lets-connect"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" align="center" /></a>&nbsp; Let's Connect</h2>
+
+<div align="center">
+
+Open to conversations about **IT consulting**, **cloud** and **data**.
+
+<a href="https://linkedin.com/in/marwa-bounoua-877300263"><img src="https://img.shields.io/badge/LinkedIn-Marwa_Bounoua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/maaarwa4"><img src="https://img.shields.io/badge/GitHub-maaarwa4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<a href="https://linkedin.com/in/marwa-bounoua-877300263">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:EC4899&height=110&section=footer" alt="" />
+</a>
