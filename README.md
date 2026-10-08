@@ -1,14 +1,14 @@
 <a href="https://linkedin.com/in/marwa-bounoua-877300263">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:EC4899&height=210&section=header&text=Marwa%20Bounoua&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Engineer%20%E2%80%A2%20Business%20%26%20Tech%20Bridge&descSize=17&descAlignY=58&animation=fadeIn" alt="Marwa Bounoua" />
+  <img width="100%" src="assets/banner.svg" alt="Marwa Bounoua — Information Systems Engineer" />
 </a>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/marwa-bounoua-877300263">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=9333EA&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Marwa+Bounoua;Information+Systems+Engineer;Bridging+business+needs+and+technology;Cloud+%E2%80%A2+Event-driven+%E2%80%A2+AI-powered+platforms;Incoming+IT+Consultant+%40+1GLINK" alt="Typing intro" />
-</a>
+<h3>Hi there, I'm Marwa Bounoua <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" align="center" /></h3>
 
-<br><br>
+<p>I turn business needs into working software: <b>requirements</b>, <b>specifications</b>, <b>development</b>, <b>user acceptance testing</b> and <b>delivery</b>.</p>
+
+<br>
 
 <a href="https://linkedin.com/in/marwa-bounoua-877300263"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/maaarwa4?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
@@ -18,11 +18,10 @@
 
 <br>
 
-<h2><a href="#about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" align="center" /></a>&nbsp; About Me</h2>
+<h2><a href="#about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34" align="center" /></a>&nbsp; About Me</h2>
 
 I'm an **Information Systems & Decision Support engineer** from **ENSA Tétouan**, with a **techno-functional profile**: I translate business needs into clear specifications, then help design, build and ship the solution.
 
-- **Incoming IT Consultant** at **1GLINK**, France
 - Hands-on experience with **Google Cloud**, **event-driven architectures** (Kafka) and **multi-agent AI platforms**
 - At ease across the full project lifecycle: **requirements → specs → build → UAT → production**
 - Working in **5 languages**: French, English, Arabic, Turkish and Spanish
@@ -177,6 +176,4 @@ Open to conversations about **IT consulting**, **cloud** and **data**.
 
 </div>
 
-<a href="https://linkedin.com/in/marwa-bounoua-877300263">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:EC4899&height=110&section=footer" alt="" />
-</a>
+<img width="100%" src="assets/footer.svg" alt="" />
